@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+body {
+
+}
+
+header, .container_fluid{
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 30px;
+    background-color: orange;
+}
+
+h5, .card-title {
+    background-color: orange;
+    padding: 10px;
+}
+
+.btn, .add-proj {
+    /* background-color: aquamarine; */
+}
+
+.modal-header{
+    background-color: orange;
+    padding: 3px;
+}
